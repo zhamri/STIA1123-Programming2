@@ -28,3 +28,8 @@
 |Total                  | 60% |
 |Final Examination      | 40% |
 
+## Issues
+
+* https://github.com/STIA1123-A192/Main-Issues/issues
+
+
