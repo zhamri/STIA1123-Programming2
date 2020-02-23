@@ -1,6 +1,6 @@
 package my.zhamri.stia1123.polymorphism;
 
-public class ClassAddNumber {
+public class ExampleOverloading1 {
 
     public int addNumbers(int x, int y) {
         return x + y;
@@ -20,14 +20,14 @@ public class ClassAddNumber {
         int total1, total2 = 0;
         double total3 = 0.0;
 
-        ClassAddNumber classAddNumber = new ClassAddNumber();
-        total1 = classAddNumber.addNumbers(5, 9);
+        ExampleOverloading1 exampleOverloading1 = new ExampleOverloading1();
+        total1 = exampleOverloading1.addNumbers(5, 9);
         System.out.println(total1);
 
-        total2 = classAddNumber.addNumbers(5, 9, 20);
+        total2 = exampleOverloading1.addNumbers(5, 9, 20);
         System.out.println(total2);
 
-        total3 = classAddNumber.addNumbers(5.0, 9);
+        total3 = exampleOverloading1.addNumbers(5.0, 9);
         System.out.println(total3);
     }
 }
