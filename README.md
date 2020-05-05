@@ -36,4 +36,5 @@
 
 * https://github.com/STIA1123-A192/Assignments/wiki
 
-
+## YouTube
+subscribe to JavaDeveloperNotes's channel at <a href="http://www.youtube.com/subscription_center?add_user=cs50tv">youtube.com/JavaDeveloperNotes</a>
