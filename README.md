@@ -36,3 +36,5 @@
 
 * https://github.com/STIA1123-A192/Assignments/wiki
 
+## YouTube Channel
+1. [JavaDeveloperNotes (JNotes)](https://bit.ly/JNotes)
