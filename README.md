@@ -32,9 +32,9 @@
 
 * https://github.com/STIA1123-A192/Main-Issues/issues
 
-## Assignments & Project
-
-* https://github.com/STIA1123-A192/Assignments/wiki
-
 ## YouTube Channel
-1. [JavaDeveloperNotes (JNotes)](https://bit.ly/JNotes)
+* [JavaDeveloperNotes (JNotes)](https://bit.ly/JNotes)
+
+## More Source Codes
+
+* https://github.com/JavaDeveloperNotes
