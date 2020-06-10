@@ -28,6 +28,10 @@
 |Total                  | 60% |
 |Final Examination      | 40% |
 
+## GitHub Classroom
+
+* https://classroom.github.com/classrooms
+
 ## Issues
 
 * https://github.com/STIA1123-A192/Main-Issues/issues
