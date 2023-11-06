@@ -1,20 +1,19 @@
 package my.zhamri.stia1123.inheritance;
 
 class Vehicle {
-    void number_of_wheels() {
+    protected void number_of_wheels() {
         System.out.println("Parent class Method");
     }
 }
 
 class Car extends Vehicle {
-    void number_of_wheels() {
+    protected void number_of_wheels() {
         System.out.println("4 wheels");
     }
 }
 
 class Bike extends Vehicle {
-
-    void number_of_wheels() {
+    protected void number_of_wheels() {
         System.out.println("2 wheels");
     }
 }
@@ -27,6 +26,7 @@ public class Example1 {
         b.number_of_wheels();
 
         Vehicle myCar = new Car();
+        myCar.number_of_wheels();
         myCar.number_of_wheels();
         Vehicle myBike = new Bike();
         myBike.number_of_wheels();
@@ -42,7 +42,7 @@ Questions
 4. Divide into 4 classes. Then run the program again.
 5. Create a Bus class which is the subclass of Vehicle class.
 6. Create a ElectricCar class which is the subclass of Car class.
-7. Create a new package called "uum". Then move the Car class into "uum" package.
+7. Create a new package called "uum". Then move the Vehicle class into "uum" package.
    Then, run the program again.
 
 Note: Inheritance-Car.png
