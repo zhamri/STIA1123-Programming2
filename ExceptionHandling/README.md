@@ -14,6 +14,7 @@
 ### Checked Exception
 1. https://docs.oracle.com/javase/8/docs/api/java/io/IOException.html
     * https://docs.oracle.com/javase/8/docs/api/java/io/FileNotFoundException.html
+1. https://docs.oracle.com/javase/8/docs/api/java/lang/InterruptedException.html
 
 
 ## Error (Unchecked Exception)
