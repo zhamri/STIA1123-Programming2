@@ -6,20 +6,36 @@ import java.io.FileReader;
 
 public class FileNotFoundExceptionExample {
     public static void main(String[] args) {
-
-//        File file = new File("somefile.txt");
-//        FileReader fr = new FileReader(file);
-
+        System.out.println("ini adalah main");
         try {
-            // Attempt to open a file
-            File file = new File("somefile.txt");
-            FileReader fr = new FileReader(file);
-            // Perform operations with the file
+            abc();
         } catch (FileNotFoundException e) {
-            // Handle the situation when the file is not found
-            System.out.println("File not found: " + e.getMessage());
-        } finally {
-            // Optional finally block for cleanup activities
+            throw new RuntimeException(e);
         }
     }
+
+    static void abc() throws FileNotFoundException {
+        System.out.println("ini adalah abc");
+        def();
+    }
+
+    static void def() throws FileNotFoundException {
+        System.out.println("ini adalah def");
+        File file = new File("somefile.txt");
+        FileReader fr = new FileReader(file);
+    }
 }
+
+
+
+//        try {
+//            // Attempt to open a file
+//            File file = new File("somefile.txt");
+//            FileReader fr = new FileReader(file);
+//            // Perform operations with the file
+//        } catch (FileNotFoundException e) {
+//            // Handle the situation when the file is not found
+//            System.out.println("File not found: " + e.getMessage());
+//        } finally {
+//            // Optional finally block for cleanup activities
+//        }
