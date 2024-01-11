@@ -14,6 +14,7 @@
     <url>http://www.example.com</url>
     <modules>
         <module>ExceptionHandling</module>
+        <module>FileProcessing</module>
     </modules>
 
     <properties>
