@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ExceptionHandling" />
         <module name="FileProcessing" />
+        <module name="List" />
       </profile>
     </annotationProcessing>
   </component>

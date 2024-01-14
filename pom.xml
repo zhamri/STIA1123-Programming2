@@ -15,6 +15,7 @@
     <modules>
         <module>ExceptionHandling</module>
         <module>FileProcessing</module>
+        <module>List</module>
     </modules>
 
     <properties>
