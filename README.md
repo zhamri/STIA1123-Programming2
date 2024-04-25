@@ -28,6 +28,11 @@
 |Total                  | 60% |
 |Final Examination      | 40% |
 
+## MOOC Course
+1. INTRODUCTION TO OBJECT ORIENTED PROGRAMMING (OOP)
+2. https://sintok.uum.edu.my/login/index.php
+3. Use your Portal id and password to log-in
+
 ## GitHub Classroom
 
 * https://classroom.github.com/classrooms
