@@ -16,6 +16,7 @@
         <module>ExceptionHandling</module>
         <module>FileProcessing</module>
         <module>List</module>
+        <module>Chapter-1_Introduction</module>
     </modules>
 
     <properties>
