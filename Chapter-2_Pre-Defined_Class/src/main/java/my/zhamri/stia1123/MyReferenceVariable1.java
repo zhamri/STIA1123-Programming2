@@ -46,3 +46,17 @@ class Car {
     }
 }
 
+/*
+OUTPUT
+
+my.zhamri.stia1123.Car@28a418fc
+Blue
+Red
+my.zhamri.stia1123.Car@28a418fc
+my.zhamri.stia1123.Car@28a418fc
+Yellow
+my.zhamri.stia1123.Car@5305068a
+Yellow
+my.zhamri.stia1123.Car@5305068a
+ */
+
