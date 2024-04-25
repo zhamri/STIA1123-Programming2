@@ -21,6 +21,10 @@
         <module>Chapter-3_User-Defined_Class</module>
         <module>Chapter-4_Inheritance_Polymorphism</module>
         <module>Chapter-5_Exception_Handling</module>
+        <module>Chapter-6_GUI</module>
+        <module>Chapter-7_File_Processing</module>
+        <module>Chapter-8_List</module>
+        <module>Example_BankAccount</module>
     </modules>
 
     <properties>
