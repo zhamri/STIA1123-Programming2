@@ -17,6 +17,7 @@
         <module>FileProcessing</module>
         <module>List</module>
         <module>Chapter-1_Introduction</module>
+        <module>Chapter-2_Pre-Defined_Class</module>
     </modules>
 
     <properties>

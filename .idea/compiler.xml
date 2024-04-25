@@ -9,6 +9,7 @@
         <module name="ExceptionHandling" />
         <module name="Chapter-1_Introduction" />
         <module name="List" />
+        <module name="Chapter-2_Pre-Defined_Class" />
         <module name="FileProcessing" />
       </profile>
     </annotationProcessing>
