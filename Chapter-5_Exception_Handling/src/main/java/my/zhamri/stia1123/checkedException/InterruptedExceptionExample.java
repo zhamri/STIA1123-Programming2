@@ -1,4 +1,4 @@
-package my.zhamri.checkedException;
+package my.zhamri.stia1123.checkedException;
 
 public class InterruptedExceptionExample {
     public static void main(String[] args) {

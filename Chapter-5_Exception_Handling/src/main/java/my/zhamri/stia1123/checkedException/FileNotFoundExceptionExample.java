@@ -1,4 +1,4 @@
-package my.zhamri.checkedException;
+package my.zhamri.stia1123.checkedException;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -26,16 +26,3 @@ public class FileNotFoundExceptionExample {
     }
 }
 
-
-
-//        try {
-//            // Attempt to open a file
-//            File file = new File("somefile.txt");
-//            FileReader fr = new FileReader(file);
-//            // Perform operations with the file
-//        } catch (FileNotFoundException e) {
-//            // Handle the situation when the file is not found
-//            System.out.println("File not found: " + e.getMessage());
-//        } finally {
-//            // Optional finally block for cleanup activities
-//        }

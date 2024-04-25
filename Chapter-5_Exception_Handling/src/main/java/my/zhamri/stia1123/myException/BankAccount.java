@@ -1,4 +1,4 @@
-package my.zhamri.myException;
+package my.zhamri.stia1123.myException;
 
 public class BankAccount {
     private double balance;

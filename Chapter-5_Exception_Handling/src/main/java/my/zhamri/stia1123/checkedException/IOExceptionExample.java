@@ -1,4 +1,4 @@
-package my.zhamri.checkedException;
+package my.zhamri.stia1123.checkedException;
 
 import java.io.FileReader;
 import java.io.IOException;

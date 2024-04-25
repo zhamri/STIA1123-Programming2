@@ -1,4 +1,4 @@
-package my.zhamri.unCheckedException;
+package my.zhamri.stia1123.unCheckedException;
 
 public class ArrayIndexOutOfBoundsExceptionExample {
     public static void main(String[] args) {
