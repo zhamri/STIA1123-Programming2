@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ExceptionHandling" />
         <module name="Chapter-1_Introduction" />
-        <module name="List" />
+        <module name="Chapter-4_Inheritance_Polymorphism" />
         <module name="Chapter-2_Pre-Defined_Class" />
         <module name="FileProcessing" />
+        <module name="Chapter-3_User-Defined_Class" />
+        <module name="ExceptionHandling" />
+        <module name="Chapter-5_Exception_Handling" />
+        <module name="List" />
       </profile>
     </annotationProcessing>
   </component>
