@@ -14,11 +14,13 @@
         <module name="Example_BankAccount" />
         <module name="FileProcessing" />
         <module name="Chapter-3_User-Defined_Class" />
-        <module name="ExceptionHandling" />
         <module name="Chapter-5_Exception_Handling" />
         <module name="List" />
         <module name="Chapter-6_GUI" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ExceptionHandling" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
